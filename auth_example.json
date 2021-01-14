@@ -1,0 +1,7 @@
+{
+    "token": "Discord bot token",
+    "id": "Discord bot ID",
+    "prefix": "prefix(ex. '?' )",
+    "uri": "mongodb://127.0.0.1/your-db",
+    "admin": "Discord server admin ID"
+}
