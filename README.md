@@ -3,7 +3,7 @@ Copying strictly forbidden.
 All rights reserved.
 Like really, I will sue you.
 
-## Backend endponts
+## Backend endpoints
 1. Listens to DC events
 2. Role-bot requests
 3. Google auth
