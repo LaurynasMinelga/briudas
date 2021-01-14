@@ -12,3 +12,5 @@ Like really, I will sue you.
 6. JWT auth
 7. Stat-bot requests
 8. Channel manager requests
+
+Node.js on Express with Mongoose.
